@@ -1,0 +1,146 @@
+@media(max-width:575px){
+    .navbar-toggler {
+        padding: 0;
+        font-size: 25px;
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .nav-item {
+        text-align: center;
+    }
+    .nav-link:hover {
+        color: #ffff;
+        display: inline-block;
+    }
+    .nav-link {
+        color: #ffff;
+        display: inline-block;
+    }
+    .banner-img {
+        display: none;
+    }
+    .banner-vh {
+        min-height: 60vh;
+        margin-top: 25px;
+    }
+    .banner-cont {
+        text-align: center;
+    }
+    .banner-btns {
+        justify-content: center;
+        margin: auto;
+        text-align: center;
+    }
+    .banner-cont h1 {
+        font-size: 35px;
+    }
+    .banner-cont p {
+        font-size: 15px;
+    }
+    .products {
+        padding: 40px 10px;
+    }
+    .product-cont p {
+        font-size: 20px;
+    }
+    .device-details {
+        padding: 45px 10px;
+        text-align: center;
+    }
+    .device-details-img {
+        width: 50%;
+        text-align: center;
+        margin: auto;
+    }
+    .details-cont {
+        justify-content: center;
+        display: block;
+        margin: 15px;
+    }
+    .customize-img {
+        display: none;
+    }
+    .device-details-info p {
+        margin-bottom: 0;
+    }
+    .customize {
+        padding: 50px 10px;
+        text-align: center;
+    }
+    .product-head h6 {
+        margin-bottom: 5px;
+    }
+    .product-head span {
+        margin-top: 15px;
+    }
+    .device-details-info p {
+        font-size: 16px;
+    }
+    .testimonial-name p {
+        font-size: 12px;
+    }
+    .sub-packeg {
+        margin-bottom: 20px;
+    }
+    .theme-download-cont {
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+    .theme-download-cont h1 {
+        font-size: 20px;
+    }
+    .theme-download-cont h2 {
+        font-size: 21px;
+    }
+    .theme-download {
+        padding: 20px 10px;
+    }
+    /* .download-btn {
+        padding: 10px 15px;
+    }
+    .features-btn {
+        padding: 10px 15px;
+    } */
+    .Subscribe {
+        padding: 50px 10px;
+    }
+    .contact-info {
+        padding-bottom: 180%;
+    }
+    .contact-content {
+        font-size: 14px;
+    }
+    .contact-icon {
+        font-size: 40px;
+    }
+    .form_area {
+        width: 90%;
+        top: 38%;
+        height: 297px;
+        padding: 25px 30px;
+    }
+    .footer ul li a {
+        font-size: 20px;
+    }
+    .footer {
+        padding: 20px;
+    }
+    .testimonial-cont p {
+        margin-bottom: 30px !important;
+        margin: 0 23px;
+        text-align: center;
+    }
+    .testimonial-info {
+        margin: 0 22px;
+    }
+    .theme-down {
+        padding: 8px 10px;
+        font-size: 15px;
+    }
+    .theme-fea {
+        padding: 8px 10px;
+        font-size: 15px;
+    }
+}
